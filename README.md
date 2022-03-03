@@ -8,4 +8,4 @@ Algumas coisas sobre mim:
 - 👊 Adoro um desafio!!!
 - Contacte-me: willvent10@hotmail.com
 
-![Snake animation](https://github.com/rafaballerini2/willianventura10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/willianventura10/willianventura10/blob/output/github-contribution-grid-snake.svg)
