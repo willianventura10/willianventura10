@@ -4,14 +4,14 @@ Algumas coisas sobre mim:
 - 🔭 Atualmente estou a procura de uma oportunidade de emprego no vasto campo da Ciência de Dados!
 - 🌱 Tenho procurado desenvolver minhas habilidades em BI e Análise de Dados! 
 - ⚡ Apaixonado por Python e Power BI!
-- 💬 Formado em Engenharia Civil, Ciência e Tencologia! 
+- 💬 Bacharel em Ciência e Tencologia e Engenharia Civil! 
 - 👊 Adoro um desafio!!!
 - Contacte-me: willvent10@hotmail.com
 
 <div>
-  <a href="https://beacons.ai/willianventura10">
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianventura10&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianventura10&layout=compact&langs_count=16&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianventura10&layout=compact&langs_count=100&theme=default"/>
 </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Willian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
