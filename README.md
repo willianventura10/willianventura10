@@ -18,7 +18,10 @@ Algumas coisas sobre mim:
     <img align="center" alt="Willian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
     <img align="center" alt="Willian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
  <img align="center" alt="Willian-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
-  
+ <img align="center" alt="Willian-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+ 
+
+   
    
   
 
