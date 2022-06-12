@@ -10,8 +10,8 @@ Algumas coisas sobre mim:
 
 <div>
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianventura10&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianventura10&layout=compact&langs_count=100&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianventura1&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianventura1&layout=compact&langs_count=100&theme=default"/>
 </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Willian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
