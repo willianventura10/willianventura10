@@ -2,9 +2,9 @@
 
 Algumas coisas sobre mim:
 - 🔭 Atualmente estou a procura de uma oportunidade de emprego no vasto campo da Ciência de Dados!
-- 🌱 Tenho procurado desenvolver minhas habilidades em BI e Análise de Dados! 
-- ⚡ Apaixonado por Python e Power BI!
-- 💬 Bacharel em Ciência e Tencologia e Engenharia Civil! 
+- 🌱 Tenho procurado desenvolver minhas habilidades em Machine Learning e Análise de Dados! 
+- 💬 Bacharel em Ciência e Tecnologia e Engenharia Civil! 
+- ⚡ Interesse em #Machine Learning, #Python, #R, #SQL, #Power BI
 - 👊 Adoro um desafio!!!
 - Contacte-me: willvent10@hotmail.com
 
