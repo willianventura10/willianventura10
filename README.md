@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu perfil! 👋
 
 Algumas coisas sobre mim:
-- 🔭 Atualmente estou a procura de uma oportunidade de emprego no vasto campo da Ciência de Dados!
+- 🔭 Atualmente estou à procura de uma oportunidade de emprego no vasto campo da Ciência de Dados!
 - 🌱 Tenho procurado desenvolver minhas habilidades em Machine Learning e Análise de Dados! 
 - 💬 Bacharel em Ciência e Tecnologia e Engenharia Civil! 
 - ⚡ Interesse em #Machine Learning, #Python, #R, #SQL, #Power BI
