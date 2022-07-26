@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil! 👋
+### Olá, seja bem vindo ao meu perfil!! 👋
 
 Algumas coisas sobre mim:
 - 🔭 Atualmente estou à procura de uma oportunidade de emprego no vasto campo da Ciência de Dados!
