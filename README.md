@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil! 👋
+## Olá, seja bem vindo ao meu perfil! 👋
 
 Algumas coisas sobre mim:
 - 🔭 Atualmente estou à procura de uma oportunidade de emprego no vasto campo da Ciência de Dados!
@@ -6,7 +6,8 @@ Algumas coisas sobre mim:
 - 💬 Bacharel em Ciência e Tecnologia e Engenharia Civil! 
 - ⚡ Interesse em #Machine Learning, #Python, #R, #SQL, #Power BI
 - 👊 Adoro um desafio!!!
-- Contacte-me: willvent10@hotmail.com
+- 📬Contacte-me: willvent10@hotmail.com
+### Portifólio: https://willianventura10.github.io/portfolio/
 
 <div>
  
@@ -20,11 +21,6 @@ Algumas coisas sobre mim:
  <img align="center" alt="Willian-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
  <img align="center" alt="Willian-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
  <img align="center" alt="Willian-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
- 
- 
-   
-   
-  
 
 </div>
 
