@@ -1,7 +1,7 @@
 ## Olá, seja bem vindo ao meu perfil! 👋
 
 Algumas coisas sobre mim:
-- 💬 Cientista de Dados, Bacharel em Ciência e Tecnologia e Engenharia Civil! 
+- 💬 Cientista de Dados, Bacharel em Ciência e Tecnologia e Engenheiro Civil! 
 - 🔭 Atualmente estou à procura de uma oportunidade de emprego no vasto campo da Ciência de Dados!
 - 🌱 Tenho procurado desenvolver minhas habilidades em Machine Learning e Análise de Dados! 
 - ⚡ Interesse em #Ciência de Dados, #Machine Learning, #Python, #R, #SQL, #Power BI
