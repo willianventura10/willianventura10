@@ -7,7 +7,7 @@ Algumas coisas sobre mim:
 - ⚡ Interesse em #Ciência de Dados, #Machine Learning, #Python, #R, #SQL, #Power BI
 - 👊 Adoro um desafio!!!
 - 📬Contacte-me: willvent10@hotmail.com
-### Portifólio: https://willianventura10.github.io/portfolio/
+
 
 <div>
  
