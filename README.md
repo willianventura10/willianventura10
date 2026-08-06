@@ -16,9 +16,9 @@ Possuo uma formação multidisciplinar (**Bacharelado em Ciência & Tecnologia +
 
 ## 🔄 No dia a dia, transito por todo o ciclo de dados:
 
-- 🔹 **Exploração e Tratamento de Dados:** Python e SQL para limpeza, manipulação e análise exploratória.
-- 🔹 **Business Intelligence:** Dashboards e visualizações no Power BI voltados para a tomada de decisão.
-- 🔹 **Machine Learning & IA:** Aplicação de modelos preditivos e IA para solucionar problemas complexos no setor público.
+  🔹 **Exploração e Tratamento de Dados:** Python e SQL para limpeza, manipulação e análise exploratória.
+  🔹 **Business Intelligence:** Dashboards e visualizações no Power BI voltados para a tomada de decisão.
+  🔹 **Machine Learning & IA:** Aplicação de modelos preditivos e IA para solucionar problemas complexos no setor público.
 
 ---
 
